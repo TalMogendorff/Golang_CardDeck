@@ -1,6 +1,8 @@
 # Golang_CardDeck
 Minor CardDeck functions to learn the basics of GoLang :
 
+packages that have been used - "fmt", "io/ioutil", "math/rand", "os", "strings", "time", "test"
+
 1. newDeck - Create and retrun a list of playing cards. Essentially an array of strings (slice of strings)
 2. print - a "method" that log out the contents of a deck of cards
 3. shuffle - shuffle randomly all the cards in a deck
